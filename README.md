@@ -20,4 +20,4 @@ to install fabric .
 
 4. Go to the cloned folder then issue the command docker images . 
 
-https://user-images.githubusercontent.com/28874545/45598960-4333c500-ba01-11e-9ef3-26de82cb835c.png
+
