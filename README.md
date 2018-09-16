@@ -10,3 +10,12 @@ the chmod command i was able to change permissions and succesfully install fabri
 
 GO to https://hyperledger-fabric.readthedocs.io/en/release-1.2/install.html
 to install fabric .
+
+
+1. Create a directory in home . 
+
+2. Clone the github repo using curl  into the specified directory
+
+3. Elevate persisions to the giveen folder by issuing the command $chmod u+w myfolder
+
+4. Go to the cloned folder then issue the command docker images . 
